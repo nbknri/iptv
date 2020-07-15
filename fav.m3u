@@ -43,6 +43,8 @@ http://103.141.66.36/bpk-tv/10430/default/manifest.mpd?=.m3u8
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" tvg-logo-small="https://origin-staticv2.sonyliv.com/masthead_logo/5613700600001.png" ,Sony WAH
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
+#EXTINF:0 group-title="Hindi" tvg-logo="https://www.exchange4media.com/news-photo/1535097258_cDTJkL_Zee_new.jpg" tvg-logo-small="https://www.exchange4media.com/news-photo/1535097258_cDTJkL_Zee_new.jpg" ,Zee Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/top-crop/width/220/height/220?cb=20200125181335" tvg-logo-small="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Sony_Max_2_%28Logo%29.svg/revision/latest/top-crop/width/220/height/220?cb=20200125181335" ,Sony MAX 2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://indeltv.in/wp-content/uploads/2019/02/bflix-movies-1.png" tvg-logo-small="https://indeltv.in/wp-content/uploads/2019/02/bflix-movies-1.png" ,Bflix Movies
@@ -63,3 +65,11 @@ http://104.237.60.234/live/gabruutv.m3u8
 http://202.163.117.6:9981/stream/channelid/349051393
 #EXTINF:0 group-title="Kids" tvg-logo="https://yt3.ggpht.com/-QaBhCQZp8CY/AAAAAAAAAAI/AAAAAAAAAAA/_g1qmmKDRXc/s68-c-k-no-mo-rj-c0xffffff/photo.jpg" tvg-logo-small="https://yt3.ggpht.com/-QaBhCQZp8CY/AAAAAAAAAAI/AAAAAAAAAAA/_g1qmmKDRXc/s68-c-k-no-mo-rj-c0xffffff/photo.jpg" ,WB Tom & Jerry
 https:\\manifest.googlevideo.com\api\manifest\hls_variant\expire\1594838999\ei\d_sOX7ODCNrZ3LUPhIe14AU\ip\43.247.156.76\id\BRkQ-ZGiNbc.1\source\yt_live_broadcast\requiressl\yes\hfr\1\playlist_duration\30\manifest_duration\30\maudio\1\vprv\1\go\1\keepalive\yes\dover\11\itag\0\playlist_type\DVR\sparams\expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type\sig\AOq0QJ8wRQIhAL4OzQqsGmHvTIwGbSCHbp__cUY_xaRa136AVHSoGtjpAiAfimcUiC7I707oIRgZ52scWvhJHVrWtPk3UqnLyUNWJQ%3D%3D\file\index.m3u8
+#EXTINF:0 group-title="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" tvg-logo-small="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png" ,National Wild
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+#EXTINF:0 group-title="Science" tvg-logo="https://www.pngitem.com/pimgs/m/203-2038482_history-channel-tv-logo-hd-png-download.png" tvg-logo-small="https://www.pngitem.com/pimgs/m/203-2038482_history-channel-tv-logo-hd-png-download.png" ,History TV HD
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
+#EXTINF:0 group-title="Kannada" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/in-janataa-tv-2462.jpg" tvg-logo-small="https://live-tv-channels.org/pt-data/uploads/logo/in-janataa-tv-2462.jpg" ,Janata TV
+http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+#EXTINF:0 group-title="Comedy" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Mr._bean_title_card.jpg" tvg-logo-small="https://upload.wikimedia.org/wikipedia/en/6/60/Mr._bean_title_card.jpg" ,Mr Bean
+https:\\manifest.googlevideo.com\api\manifest\hls_variant\expire\1594847884\ei\LB4PX6LtGI7qowP9k6bwDQ\ip\43.247.156.76\id\Ue0xaq1Q-B4.0\source\yt_live_broadcast\requiressl\yes\hfr\1\playlist_duration\30\manifest_duration\30\maudio\1\vprv\1\go\1\keepalive\yes\dover\11\itag\0\playlist_type\DVR\sparams\expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type\sig\AOq0QJ8wRAIgEi6HkBNpSzlV8yBQEDKwcUjLWpU1i2Mm7hsDO4i3HJkCIEEC4j9ZUTYCPeJQitCXgNLG3QWoIDvWPxS-IPaUYniv\file\index.m3u8
