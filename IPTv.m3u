@@ -9,7 +9,7 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
 #EXTINF:0 group-title="Kannada" tvg-id="2.ch" tvg-name="Colors Kannada HD" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SuvarnaNews.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SuvarnaNews.png" ,Suvarna News
 https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
-#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicTv.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicTv.png" ,Public TV
+#EXTINF:0 group-title="Kannada" tvg-id="2.ch" tvg-name="Colors Kannada HD" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicTv.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicTv.png" ,Public TV
 http://103.199.161.254/Content/publictv/Live/Channel(PublicTV)/index.m3u8
 #EXTINF:0 group-title="Kannada" tvg-id="2.ch" tvg-name="Colors Kannada HD" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/TV5Kannada.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/TV5Kannada.png" ,TV5 Kannada
 https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
@@ -127,3 +127,5 @@ https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
 https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:0 group-title="Comedy" tvg-id="2.ch" tvg-name="Colors Kannada HD" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ComedyCentral.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ComedyCentral.png" ,Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
+#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SAKKAT.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SAKKAT.png" ,Sakkat
+https://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
