@@ -15,7 +15,7 @@ http://103.199.161.254/Content/publictv/Live/Channel(PublicTV)/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
 #EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicMusic.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicMusic.png" ,Public Music
 http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
-#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicMusic.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicMusic.png" ,SAKKAT
+#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicMusic.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SAKKAT.png" ,SAKKAT
 https://linear03hun-lh.akamaihd.net/i/sakkat_1@665240/master.m3u8
 #EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDChandana.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDChandana.pnghttps://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDChandana.png" ,DD Chandana
 https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8
