@@ -1,12 +1,18 @@
 ﻿#EXTM3U
-#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeKannadaHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeKannadaHD.png" ,Zee Kannada HD
+#EXTINF:0 group-title="Kannada" tvg-id="1.ch" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeKannadaHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeKannadaHD.png" ,Zee Kannada HD
 http://45.120.188.59:80/0.ts
-#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsKannadaHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsKannadaHD.png" ,Colors Kannada HD
+#EXTINF:0 group-title="Kannada" tvg-id="2.ch" tvg-name="Colors Kannada HD" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsKannadaHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsKannadaHD.png" ,Colors Kannada HD
 http://45.120.188.203:80/0.ts
+#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/KasturiTV.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/KasturiTV.png" ,Kasturi
+http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 #EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/JanataTv.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/JanataTv.png" ,Janata TV
 http://mydreams.livebox.co.in/Janataatvhls/Janataatv.m3u8
+#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SuvarnaNews.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SuvarnaNews.png" ,Suvarna News
+https://vidcdn.vidgyor.com/suvarna-origin/liveabr/suvarna-origin/live1/playlist.m3u8
 #EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/TV5Kannada.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/TV5Kannada.png" ,TV5 Kannada
 https://m-c01-j2apps.s.llnwi.net/hls/5412.TV5Kannada.in.m3u8
+#EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicMusic.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/PublicMusic.png" ,Public Music
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
 #EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDChandana.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDChandana.pnghttps://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDChandana.png" ,DD Chandana
 https://m-c15-j2apps.s.llnwi.net/hls/0255.DDChandana.in.m3u8
 #EXTINF:0 group-title="Kannada" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Sankara.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Sankara.png" ,Sri Shankara
@@ -27,18 +33,22 @@ http://45.120.188.202:80/0.ts
 http://45.120.188.62:80/0.ts
 #EXTINF:0 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/TTD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/TTD.png" ,SVBV
 https://m-c048-j2apps.s.llnwi.net/hls/0382.SVBC.in.m3u8
+#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarPlusHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarPlusHD.png" ,Star Plus HD
+https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" ,Colors HD
 http://45.120.188.219:80/0.ts
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SETHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SETHD.png" ,SET HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/%26TvHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/%26TvHD.png" ,&TV HD
+#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeTV.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeTV.png" ,Zee Tv
+https://itpolly.iptv.digijadoo.net/live/zee_tv/chunks.m3u8
+#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" ,Star Bharat
+https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
+#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/%26TvHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/%26TvHD.png" ,AND TV HD
 http://45.120.188.76:80/0.ts
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSabHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSabHD.png" ,SAB HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYPAL.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYPAL.png" ,Sony Pal
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYWah.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYWah.png" ,Sony Wah
-https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/EPICTv.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/EPICTv.png" ,EPIC
 https://m-c03-j2apps.s.llnwi.net/hls/2639.Epic.in.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Shemaroo.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Shemaroo.png" ,Shemaroo TV
@@ -47,12 +57,18 @@ https://m-c06-j2apps.s.llnwi.net/hls/7073.FunTV.in.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/0098.DDNational.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDBharati.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DDBharati.png" ,DD Bharati
 https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
+#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" ,Star Gold HD
+https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/MAXHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/MAXHD.png" ,MAX HD
 https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinema.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinema.png" ,Zee Cinema
 http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinemaHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinemaHD.png" ,Zee Cinema HD
 http://45.120.188.210:80/0.ts
+#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYWah.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYWah.png" ,Sony Wah
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
+#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeBollywood.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeBollywood.png" ,Zee Bollywood
+https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYMAX2.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYMAX2.png" ,Sony Max2
 https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Filmy.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Filmy.png" ,Filmy
@@ -77,6 +93,8 @@ https://m-c03-j2apps.s.llnwi.net/hls/6640.SkystarMusic.in.m3u8
 https://m-c04-j2apps.s.llnwi.net/hls/7002.ShowBox.in.m3u8
 #EXTINF:0 group-title="Music" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/AAHOMusic.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/AAHOMusic.png" ,Aaho Music
 https://m-c17-j2apps.s.llnwi.net/hls/7046.AahoMusic.in.m3u8
+#EXTINF:0 group-title="Music" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Gabruu.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Gabruu.png" ,Gabruu
+http://104.237.60.234/live/gabruutv.m3u8
 #EXTINF:0 group-title="Tamil" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarVijayHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarVijayHD.png" ,Star Vijay HD
 http://45.120.188.197:80/0.ts
 #EXTINF:0 group-title="Tamil" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeTamilHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeTamilHD.png" ,Zee Tamil HD
@@ -85,8 +103,12 @@ http://45.120.188.192:80/0.ts
 http://45.120.188.195:80/0.ts
 #EXTINF:0 group-title="Tamil" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/KTvHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/KTvHD.png" ,KTV HD
 http://45.120.188.198:80/0.ts
+#EXTINF:0 group-title="Science" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/HistoryHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/HistoryHD.png" ,History HD
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 #EXTINF:0 group-title="Science" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/NATGeoWild.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/NATGeoWild.png" ,National Wild
 http://45.120.188.70:80/0.ts
+#EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DisnepChannel.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/DisnepChannel.png" ,Disnep Channel
+http://202.163.117.6:9981/stream/channelid/349051393
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/POGOTv.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/POGOTv.png" ,Pogo TV
 http://45.120.188.207:80/0.ts
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYYAH.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYYAH.png" ,Sony Yay
