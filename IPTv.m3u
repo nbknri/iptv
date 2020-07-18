@@ -48,7 +48,7 @@ http://three.somee.com/web.php?c=zeetvhd
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" ,Colors HD
 http://45.120.188.219:80/0.ts
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SETHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SETHD.png" ,SONY SET HD
-https://bit.ly/3fKTNU8seTHd
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7021.SETHD.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" ,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsRishtey.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsRishtey.png" ,Colors Rishtey
@@ -56,9 +56,9 @@ https://itpolly.iptv.digijadoo.net/live/rishtey/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/%26TvHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/%26TvHD.png" ,AND TV HD
 http://45.120.188.76:80/0.ts
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSabHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSabHD.png" ,SONY SAB HD
-https://bit.ly/3fBsABhd
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7022.SABHD.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYPAL.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYPAL.png" ,Sony Pal
-https://bit.ly/30a3wsONyPal
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7029.SonyPal.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/BIGMAGIC.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/BIGMAGIC.png" ,Big Magic
 http://z5amshls.akamaized.net/bigmagic/tracks-v3a1/index.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/EPICTv.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/EPICTv.png" ,EPIC
@@ -72,9 +72,7 @@ https://m-c17-j2apps.s.llnwi.net/hls/0178.DDBharati.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" ,Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/MAXHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/MAXHD.png" ,SONY MAX HD
-https://bit.ly/32bsOnymAXhd
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinema.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinema.png" ,Zee Cinema
-http://103.214.202.218:8081/live/zeecinema-34/chunks.m3u8
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7023.MAXHD.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinemaHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeCinemaHD.png" ,Zee Cinema HD
 http://45.120.188.210:80/0.ts
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ANDPICTUREHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ANDPICTUREHD.png" ,&Pictures HD
@@ -86,11 +84,11 @@ https://z5amshls.akamaized.net/zanmolcnm/tracks-v2a1/index.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGold2.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGold2.png" ,Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYWah.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYWah.png" ,Sony Wah
-https://bit.ly/3j7sOnywAh
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7026.SonyWah.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeBollywood.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeBollywood.png" ,Zee Bollywood
 https://itpolly.iptv.digijadoo.net/live/zee_classic/chunks.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYMAX2.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYMAX2.png" ,Sony Max2
-https://bit.ly/30dsoNYmaX2
+https://m-c037-j2apps.s.llnwi.net/hls/7038.SonyMax2.in_dvr.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Filmy.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/Filmy.png" ,Filmy
 https://m-c15-j2apps.s.llnwi.net/hls/0079.Filmy.in.m3u8
 #EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/BFlixMovies.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/BFlixMovies.png" ,BFlix Movies
@@ -138,28 +136,10 @@ http://202.163.117.6:9981/stream/channelid/349051393
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/POGOTv.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/POGOTv.png" ,Pogo TV
 http://45.120.188.207:80/0.ts
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYYAH.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYYAH.png" ,Sony Yay
-https://bit.ly/2WmsoNYYaY
+https://m-c066-j2apps.s.llnwi.net/hls_hd/7027.SonyYay.in_dvr.m3u8
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/NICKHDPlus.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/NICKHDPlus.png" ,Nick HD +
 https://itpolly.iptv.digijadoo.net/live/nick_hd/chunks.m3u8
 #EXTINF:0 group-title="Kids" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/NIMOTV.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/NIMOTV.png" ,Nimo TV
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
 #EXTINF:0 group-title="Comedy" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ComedyCentral.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ComedyCentral.png" ,Comedy Central
 https://itpolly.iptv.digijadoo.net/live/comedy_central/chunks.m3u8
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSIX.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSIX.png" ,SONY SIX
-https://bit.ly/3j8sIx7sd
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSixHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYSixHD.png" ,SONY SIX HD
-https://bit.ly/3h6sIXHd
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN1.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN1.png" ,SONY TEN 1
-https://bit.ly/2ZtEn1Sd
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN1HD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN1HD.png" ,SONY TEN 1 HD
-https://bit.ly/2B9tEN1hd
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN2.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN2.png" ,SONY TEN 2
-https://bit.ly/30teN2sd
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN2HD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN2HD.png" ,SONY TEN 2 HD
-https://bit.ly/2DOtEN2hd
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN3.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN3.png" ,SONY TEN 3
-https://bit.ly/2B9teN3sd
-#EXTINF:0 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN3HD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYTEN3HD.png" ,SONY TEN 3 HD
-https://bit.ly/2OwtEn3hd
-#EXTINF:0 group-title="English" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYPIXHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/SONYPIXHD.png" ,SONY PIX HD
-https://bit.ly/32sOnypIXhd
