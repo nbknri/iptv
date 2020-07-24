@@ -56,7 +56,7 @@ http://indtv.online/Sri_Sankara.m3u8
 #EXTINF:-1 group-title="Telugu",
 #EXTINF:0 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarMaaHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarMaaHD.png" ,Star Maa HD
 http://45.120.188.199:80/0.ts
-#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/250x250_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SunNXT",Gemini TV HD
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/250x250_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="Telugu",Gemini TV HD
 http://sun.indtv.online/SunNXT/GeminiTVHD/GeminiTVHD.m3u8
 #EXTINF:0 group-title="Telugu" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeTeluguHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ZeeTeluguHD.png" ,Zee Telugu HD
 http://45.120.188.201:80/0.ts
@@ -70,7 +70,7 @@ http://indtv.online/ETV_Telugu.m3u8
 https://m-c16-j2apps.s.llnwi.net/hls/2269.StudioOne.in.m3u8
 #EXTINF:0 group-title="Telugu" ,Star Maa Movies HD
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/960
-#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="SunNXT",Gemini Movies HD
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="Telugu",Gemini Movies HD
 http://sun.indtv.online/SunNXT/GeminiMoviesHD/GeminiMoviesHD.m3u8
 #EXTINF:-1 tvg-id="413" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinemalu.png" group-title="Telugu",Zee Cinemalu
 http://indtv.online/Zee_Cinemalu.m3u8
@@ -93,7 +93,7 @@ http://indtv.online/Sri_Venkateshwar_Bhakti.m3u8
 #EXTINF:-1 tvg-id="706" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png" group-title="Telugu",DD Saptagiri
 http://indtv.online/DD_Saptagiri.m3u8
 
-#EXTINF:-1 tvg-id="Sun TV HD" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT",Sun TV HD
+#EXTINF:-1 tvg-id="Sun TV HD" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="Tamil",Sun TV HD
 http://sun.indtv.online/SunNXT/SunTVHD/SunTVHD.m3u8
 #EXTINF:0 group-title="Tamil" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarVijayHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarVijayHD.png" ,Star Vijay HD
 http://45.120.188.197:80/0.ts
@@ -105,13 +105,13 @@ http://indtv.online/Zee_Tamil.m3u8
 http://indtv.online/Colors_Tamil_HD.m3u8
 #EXTINF:-1 tvg-id="419" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jaya_TV_HD.png" group-title="Tamil",Jaya TV HD
 http://indtv.online/Jaya_TV_HD.m3u8
-#EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNXT",KTV HD
+#EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="Tamil",KTV HD
 http://sun.indtv.online/SunNXT/KTVHD/KTVHD.m3u8
-#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title="Zee5",Zee Thirai
+#EXTINF:-1 tvg-id="0-9-224" tvg-logo="https://akamaividz.zee5.com/resources/0-9-224/list/386x386/09224zeethirai_2030446447.png" group-title="Tamil",Zee Thirai
 http://indtv.online/0-9-224.m3u8
 #EXTINF:-1 tvg-id="417" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Tamil",J Movies
 http://indtv.online/J_Movies.m3u8
-#EXTINF:-1 tvg-id="Sun Music HD" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="SunNXT",Sun Music HD
+#EXTINF:-1 tvg-id="Sun Music HD" tvg-logo="https://sund-images.sunnxt.com/9013/1000x1000_ff49d176-a9d2-4f50-b6bc-a10caac8d3a5.jpg" group-title="Tamil",Sun Music HD
 http://sun.indtv.online/SunNXT/SunMusicHD/SunMusicHD.m3u8
 #EXTINF:-1 tvg-id="803" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Tunes_6.png" group-title="Tamil",Tunes 6
 http://indtv.online/Tunes_6.m3u8
@@ -120,9 +120,9 @@ http://indtv.online/Raj_Musix.m3u8
 #EXTINF:-1 tvg-id="749" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sahana_Music.png" group-title="Tamil",Sahana Music
 http://indtv.online/Sahana_Music.m3u8
 
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarPlusHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarPlusHD.png" ,Star Plus HD
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarPlusHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarPlusHD.png" ,Star Plus HD
 https://itpolly.iptv.digijadoo.net/live/star_plus_hd/chunks.m3u8
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" ,Colors HD
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/ColorsHD.png" ,Colors HD
 http://45.120.188.219:80/0.ts
 #EXTINF:-1 tvg-id="144" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="Entertainment",Colors HD
 http://indtv.online/Colors_HD.m3u8
@@ -134,7 +134,7 @@ http://indtv.online/Zee_TV_HD.m3u8
 http://indtv.online/Sony_SAB.m3u8
 #EXTINF:-1 tvg-id="472" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="Entertainment",And TV HD
 http://indtv.online/And_TV_HD.m3u8
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" ,Star Bharat
+#EXTINF:0 group-title="Entertainment" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarBharat.png" ,Star Bharat
 https://itpolly.iptv.digijadoo.net/live/star_bharat/chunks.m3u8
 #EXTINF:-1 tvg-id="279" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey.png" group-title="Entertainment",Rishtey
 http://indtv.online/Rishtey.m3u8
@@ -147,7 +147,7 @@ http://indtv.online/Sony_SAB_HD.m3u8
 #EXTINF:-1 tvg-id="481" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Epic_HD.png" group-title="Entertainment",Epic
 http://indtv.online/Epic_HD.m3u8
 
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" ,Star Gold HD
+#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGoldHD.png" ,Star Gold HD
 https://itpolly.iptv.digijadoo.net/live/star_gold/chunks.m3u8
 #EXTINF:-1 tvg-id="476" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Movies",Sony Max HD
 http://indtv.online/Sony_Max_HD.m3u8
@@ -157,7 +157,7 @@ http://indtv.online/Zee_Cinema_HD.m3u8
 http://indtv.online/Colors_Cineplex.m3u8
 #EXTINF:-1 tvg-id="185" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="Movies",And Pictures HD
 http://indtv.online/And_Pictures_HD.m3u8
-#EXTINF:0 group-title="Hindi" ,Star Gold Select HD
+#EXTINF:0 group-title="Movies" ,Star Gold Select HD
 http://worldch.ddns.net:8080/t4hg3EDq5S/VEGR3mehZG/18180
 #EXTINF:-1 tvg-id="1202" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/EROSNOW_Hindi_Premium.png" group-title="Movies",Jio Bollywood Premium HD
 http://indtv.online/EROSNOW_Hindi_Premium.m3u8
@@ -165,7 +165,7 @@ http://indtv.online/EROSNOW_Hindi_Premium.m3u8
 http://indtv.online/Sony_MAX2.m3u8
 #EXTINF:-1 tvg-id="484" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Movies",Zee Cinema
 http://indtv.online/Zee_Cinema.m3u8
-#EXTINF:0 group-title="Hindi" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGold2.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGold2.png" ,Star Gold 2
+#EXTINF:0 group-title="Movies" tvg-logo="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGold2.png" tvg-logo-small="https://raw.githubusercontent.com/deepaknsurya/iptv/master/channels/StarGold2.png" ,Star Gold 2
 https://itpolly.iptv.digijadoo.net/live/movies_ok/chunks.m3u8
 #EXTINF:-1 tvg-id="182" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Movies",B4U Movies
 http://indtv.online/B4U_Movies.m3u8
