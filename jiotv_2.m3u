@@ -1,4 +1,4 @@
-﻿#EXTM3U
+#EXTM3U
 #EXTINF:-1 group-title="JioTV+  (TiviMate)",
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://wv.indtv.online/mpd/Star_PlusHD.mpd
@@ -120,6 +120,10 @@ https://jiotv.live.cdn.jio.com/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd
 #KODIPROP:inputstream.adaptive.license_key=http://wv.indtv.online/mpd/Travel_XP_HD.mpd
 #EXTINF:-1 tvg-id="164" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP_HD.png" group-title="JioTV+  (TiviMate)",Travel XP HD
 https://jiotv.live.cdn.jio.com/bpk-tv/Travel_XP_HD_BTS/output/index.mpd|user-agent="KAIOS"
+#EXTINF:-1 tvg-id="Gemini TV HD" tvg-logo="https://sund-images.sunnxt.com/14019/250x250_72a28627-db58-4739-b61c-4e4208897aed.jpg" group-title="SunNXT",Gemini TV HD
+http://sun.indtv.online/SunNXT/GeminiTVHD/GeminiTVHD.m3u8
+#EXTINF:-1 tvg-id="Gemini Movies HD" tvg-logo="https://sund-images.sunnxt.com/26570/640x360_GeminiMoviesHD_26570_e0949a87-55e4-4ea3-a5d8-1d4490b05131.jpg" group-title="SunNXT",Gemini Movies HD
+http://sun.indtv.online/SunNXT/GeminiMoviesHD/GeminiMoviesHD.m3u8
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-logo="https://sund-images.sunnxt.com/14020/1000x1000_9dd88de4-18ab-493b-98fe-6eb27e9cbf5e.jpg" group-title="SunNXT",Sun TV HD
 http://sun.indtv.online/SunNXT/SunTVHD/SunTVHD.m3u8
 #EXTINF:-1 tvg-id="KTV HD" tvg-logo="https://sund-images.sunnxt.com/26566/1000x1000_45814266-8c8b-45c6-a801-643e6734f73d.jpg" group-title="SunNXT",KTV HD
